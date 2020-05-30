@@ -113,5 +113,15 @@
 	mov    ah, 4Ch 
 	int    21h
 
+	; Better way using loop
+	; MOV  CX, 50; repeat count
+	; L1:
+	; push cx
+	; mov    ah, 2Ch
+	;     int    21h
+	; pop cx
+	; DEC  CX
+	; JNZ  L1
+
 end
 
