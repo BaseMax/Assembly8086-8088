@@ -47,13 +47,21 @@ Write a procedure to solve the quadratic equation `Y=5X^2-2X+6`, where the value
 ## Tools
 
 - Visual Masm
+
 ![Visual Masm](VisualMasm.jpg)
 
+https://visualmasm.com/
+
 - Emulator
+
 ![Emulator](emulator.jpg)
+
 ![Emulator](emulator2.jpg)
 
+https://download.cnet.com/Emu8086-Microprocessor-Emulator/3000-2069_4-10392690.html
+
 - DosBox
+
 https://www.dosbox.com/
 
 Many thanks to ValK.
