@@ -6,6 +6,10 @@ For each program use Microsoft assembler (MASM 6.14)
 
 The instructions should be compatible with 8086/8088 microprocessor.
 
+# Program 1
+
+Write a program that adds 8 words of data..
+
 ---------
 
 # Max Base
