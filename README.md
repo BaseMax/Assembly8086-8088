@@ -35,12 +35,12 @@ Use the CMPS command to write a program that tests the video display for the wor
 
 Write a procedure to solve the quadratic equation `Y=5X^2-2X+6`, where the value of X is stored in AL and the result of the equation (Y) is returned in AX. To test this procedure, write a __software driver__ that will send each X-input value (from the table shown below) to the procedure one at a time and check for a month with the expected Y-output value each time. If all four tests pass, display the message "procedure passes", if any one test fails the error message "procedure fails" is output.
 
-```
-0 -> 6
-1 -> 9
-10 -> 486
-100 -> 49806
-```
+| X - input    | Y - output                                 |
+| ---------------- | ------------------------------------ |
+| 0 | 6 |
+| 1 | 9 |
+| 10 | 486 |
+| 100 | 49806 |
 
 -----
 
