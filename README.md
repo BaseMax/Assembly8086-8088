@@ -42,6 +42,20 @@ Write a procedure to solve the quadratic equation `Y=5X^2-2X+6`, where the value
 100 -> 49806
 ```
 
+-----
+
+## Tools
+
+- Visual Masm
+![Visual Masm](VisualMasm.jpg)
+
+- Emulator
+![Emulator](emulator.jpg)
+![Emulator](emulator2.jpg)
+
+- DosBox
+https://www.dosbox.com/
+
 Many thanks to ValK.
 
 ---------
